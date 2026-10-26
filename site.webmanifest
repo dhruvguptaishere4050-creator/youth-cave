@@ -1,0 +1,10 @@
+{
+  "name": "Youth Cave — Patiala Gaming Cafe",
+  "short_name": "Youth Cave",
+  "description": "Pool, air hockey, PS4, Xbox and good food in Patiala.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#050509",
+  "theme_color": "#050509",
+  "icons": []
+}

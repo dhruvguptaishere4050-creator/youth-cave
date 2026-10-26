@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://youth-cave-patiala.netlify.app/sitemap.xml
