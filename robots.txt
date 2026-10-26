@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://youth-cave-patiala.netlify.app/sitemap.xml
+Sitemap: https://dhruvguptaishere4050-creator.github.io/youth-cave/sitemap.xml
